@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/grocerystore/static/css/main.917155ff.chunk.css",
+    "main.js": "/grocerystore/static/js/main.4228f2f3.chunk.js",
+    "main.js.map": "/grocerystore/static/js/main.4228f2f3.chunk.js.map",
+    "runtime-main.js": "/grocerystore/static/js/runtime-main.106f319a.js",
+    "runtime-main.js.map": "/grocerystore/static/js/runtime-main.106f319a.js.map",
+    "static/js/2.64edce08.chunk.js": "/grocerystore/static/js/2.64edce08.chunk.js",
+    "static/js/2.64edce08.chunk.js.map": "/grocerystore/static/js/2.64edce08.chunk.js.map",
+    "index.html": "/grocerystore/index.html",
+    "static/css/main.917155ff.chunk.css.map": "/grocerystore/static/css/main.917155ff.chunk.css.map",
+    "static/js/2.64edce08.chunk.js.LICENSE.txt": "/grocerystore/static/js/2.64edce08.chunk.js.LICENSE.txt",
+    "static/media/apples.c961b5e1.jpg": "/grocerystore/static/media/apples.c961b5e1.jpg",
+    "static/media/kiwis.9e6a99ac.jpg": "/grocerystore/static/media/kiwis.9e6a99ac.jpg",
+    "static/media/oranges.acd2065a.jpg": "/grocerystore/static/media/oranges.acd2065a.jpg",
+    "static/media/strawberries.9a5fa50c.jpg": "/grocerystore/static/media/strawberries.9a5fa50c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.106f319a.js",
+    "static/js/2.64edce08.chunk.js",
+    "static/css/main.917155ff.chunk.css",
+    "static/js/main.4228f2f3.chunk.js"
+  ]
+}
